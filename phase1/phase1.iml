@@ -7,5 +7,14 @@
     </content>
     <orderEntry type="jdk" jdkName="openjdk-25" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/LaboRTI2024_sources/JARs/bcprov-jdk15to18-169.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
